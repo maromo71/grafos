@@ -34,10 +34,7 @@ Cada conceito teórico será seguido por **atividades práticas em Python**, apl
 ## 📂 Estrutura do Repositório
 ```
 /
-├── algoritmos/        # Implementações de algoritmos clássicos de grafos
-├── exemplos/          # Exemplos práticos apresentados em aula
-├── exercicios/        # Listas de exercícios propostos
-├── projetos/          # Projetos e estudos de caso
+├── aula____/        # Cada dia de aula teremos um diretório com os códigos práticos apresentados em aula
 └── README.md          # Este arquivo
 ```
 
@@ -54,16 +51,7 @@ Cada conceito teórico será seguido por **atividades práticas em Python**, apl
 ---
 
 ## 📅 Cronograma Resumido
-| Semana | Conteúdo                                                                 |
-|--------|--------------------------------------------------------------------------|
-| 1-2    | Introdução à Teoria dos Grafos, conceitos básicos, representação         |
-| 3-4    | Grafos direcionados e não direcionados, conectividade, planaridade       |
-| 5-6    | Algoritmos de busca (BFS, DFS)                                           |
-| 7-8    | Algoritmos de caminhos mínimos (Dijkstra, Bellman-Ford)                  |
-| 9-10   | Árvores Geradoras Mínimas (Prim, Kruskal)                                |
-| 11-12  | Algoritmos gulosos e programação dinâmica aplicados a grafos             |
-| 13-14  | Visualização e análise de grafos                                         |
-| 15-16  | Projeto final e apresentação                                             |
+- Plano de aula da disciplina.
 
 ---
 
@@ -75,8 +63,8 @@ Você é livre para usar e adaptar o conteúdo, desde que mantenha os créditos 
 
 ## ✉ Contato
 Professor: **Marcos Roberto de Moraes (Maromo)**  
-📧 Email: *[inserir email]*  
-🏫 Instituição: Fatec Mogi Mirim  
+📧 Email: *professormoraes@gmail.com*  
+🏫 Instituição: Faculdade Santa Lúcia.  
 
 ---
 > *“Aprender grafos é aprender a enxergar conexões invisíveis.”*
