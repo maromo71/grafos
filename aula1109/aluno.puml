@@ -1,0 +1,15 @@
+@startuml
+title Diagrama de Classe - Aluno
+
+class Aluno {
+    - matricula : String
+    - nome : String
+    - curso : String
+
+    + __init__(matricula: String, nome: String, curso: String)
+    + matricular() : void
+    + cancelarMatricula() : void
+    + apresentarDados() : void
+}
+
+@enduml
