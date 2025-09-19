@@ -1,6 +1,6 @@
 from conversor import Conversor
 
-temp = 38
+temp = float(input("Digite a temperatura em graus celsius:"))
 
 fahrenheit = Conversor.celsius_para_fahrenheit(temp)
 
